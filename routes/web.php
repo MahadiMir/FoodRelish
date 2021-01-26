@@ -51,3 +51,6 @@ Route::get('product_display', 'ProductController@product_display')->name('produc
 
 Route::resource('stock', 'StockController');
 Route::get('stock_display', 'StockController@stock_display')->name('stock.display');
+
+Route::resource('po', 'PoController');
+Route::get('po_add', 'PoController@index')->name('po.index');

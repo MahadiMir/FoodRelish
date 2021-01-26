@@ -62,7 +62,7 @@
                         <ul class="nav">
                             <li><a href="page-profile.html" class="">Client Registration</a></li>
                             <li><a href="page-profile.html" class="">Client List</a></li>
-                            <li><a href="page-profile.html" class="">Purchase History</a></li>
+                            <li><a href="{{route('po.index')}}" class="">Purchase Order</a></li>
                         </ul>
                     </div>
                 </li>

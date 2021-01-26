@@ -23,17 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3bbb303-bf14-42f7-b9a0-07fc800b25bd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/clients/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/employees/show.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/vendor/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/CategoryController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/EmployeeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/EmployeeController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/includes/navbar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/includes/navbar.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/includes/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/includes/sidebar.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/master.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,21 +148,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/assets/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\xampp\htdocs\FoodRelish\public\assets\css" />
-      <recent name="D:\xampp\htdocs\template-8\public\assets\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\xampp\htdocs\inventory\public\assets\css" />
       <recent name="D:\xampp\htdocs\template-8\resources\views\auth" />
       <recent name="D:\xampp\htdocs\template-8\public\assets" />
       <recent name="D:\xampp\htdocs\template-8\resources\views\products" />
       <recent name="D:\xampp\htdocs\template-8\resources\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\xampp\htdocs\FoodRelish\resources\views" />
+      <recent name="D:\xampp\htdocs\FoodRelish\app\Http\Controllers" />
+      <recent name="D:\xampp\htdocs\FoodRelish\public\assets\css" />
+      <recent name="D:\xampp\htdocs\template-8\public\assets\img" />
     </key>
   </component>
   <component name="RunManager">
@@ -205,7 +198,9 @@
       <workItem from="1610775472467" duration="4859000" />
       <workItem from="1610943715940" duration="2027000" />
       <workItem from="1610946156777" duration="981000" />
-      <workItem from="1610947524344" duration="1947000" />
+      <workItem from="1610947524344" duration="3192000" />
+      <workItem from="1610989209366" duration="1490000" />
+      <workItem from="1611668030317" duration="366000" />
     </task>
     <servers />
   </component>
