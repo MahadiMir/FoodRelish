@@ -21,6 +21,10 @@
     <!-- ICONS -->
     <link rel="apple-touch-icon" sizes="76x76" href="{{asset('assets/img/apple-icon.png')}}">
     <link rel="icon" type="image/png" sizes="96x96" href="{{asset('assets/img/hlo.png')}}">
+
+
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 </head>
 
 <body>

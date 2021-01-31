@@ -18,7 +18,8 @@ class PoController extends Controller
     public function index()
     {   $products = Stock::all();
         $vendors = Vendor::all();
-        return view('po.index',compact('vendors','products'));
+        $categories = Category::all();
+        return view('po.index',compact('vendors','products','categories'));
     }
 
     /**

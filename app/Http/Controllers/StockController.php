@@ -87,4 +87,9 @@ class StockController extends Controller
     {
         //
     }
+
+    public function product($producty){
+        $bp = Stock::where('title', $producty)->first();
+        return response()->json($bp);
+    }
 }

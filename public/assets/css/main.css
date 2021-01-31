@@ -1775,3 +1775,21 @@ ul.activity-timeline > li {
     color: #0c1312;
     font-size: 25px;
 }
+
+/*Bootstrap Dynamic Form*/
+
+[data-role="dynamic-fields"] > .form-inline + .form-inline {
+    margin-top: 0.5em;
+}
+
+[data-role="dynamic-fields"] > .form-inline [data-role="add"] {
+    display: none;
+}
+
+[data-role="dynamic-fields"] > .form-inline:last-child [data-role="add"] {
+    display: inline-block;
+}
+
+[data-role="dynamic-fields"] > .form-inline:last-child [data-role="remove"] {
+    display: none;
+}
